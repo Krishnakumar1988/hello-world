@@ -1,2 +1,9 @@
 # hello-world
-For learning github
+Hi All,
+This is krishna, i am learning the git hub now.
+
+
+
+
+Thanks,
+krishna.
